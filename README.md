@@ -37,7 +37,7 @@ A GUI tool for designing, estimating, and building **zip bombs** — with full c
 ```bash
 git clone https://github.com/yourusername/zip-bomb-builder.git
 cd zip-bomb-builder
-python zip_bomb_builder_v1.py.py
+python zip_bomb_builder_v1.py
 ```
 
 ---
